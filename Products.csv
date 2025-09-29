@@ -1,0 +1,8 @@
+product_id,product_name,category,price
+101,Laptop,Electronic,1200.00
+102,Smartphone,Electronic,800.00
+103,Headphone,Electronic,150.00
+104,"Office Chair",Furniture,300.00
+105,Desk,Furniture,450.00
+106,T-shirt,Clothing,25.00
+107,Jeans,Clothing,40.00
