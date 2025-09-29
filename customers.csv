@@ -1,0 +1,6 @@
+customer_id,customer_name,gender,city,state,country
+1,Alice,Female,"New York",NY,USA
+2,Bob,Male,"Los Angeles",CA,USA
+3,Charlie,Male,Chicago,IL,USA
+4,Diana,Female,Houston,TX,USA
+5,Eva,Female,Miami,FL,USA
